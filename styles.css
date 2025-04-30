@@ -1,0 +1,38 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    font-family: Georgia;
+    text-align: center;
+}
+p{
+    size: 160%;
+    color:chocolate;
+    text-align: center;
+}
+a:link{
+    background-color: #f44336;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:visited{
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active{
+    color: purple;
+    background-color: transparent;
+    text-decoration: underline;
+}
+p:hover{
+    color: green;
+}
