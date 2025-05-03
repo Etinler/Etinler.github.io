@@ -1,5 +1,10 @@
 body{
     background-color: aliceblue;
+    background-image: url(zoom\ pfp.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 h1{
     font-family: Georgia;
@@ -9,6 +14,7 @@ p{
     size: 160%;
     color:chocolate;
     text-align: center;
+    background-image: url(banana.jpg);
 }
 a:link{
     background-color: #f44336;
